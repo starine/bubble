@@ -1,6 +1,3 @@
-# 本项目为七米老师的课程代码
-# 上传用于测试 CloudBase 的使用
-
 # 备忘录清单
 一个基于gin+gorm开发的练手小项目，通过该项目可初识go web开发该有的姿势。
 前端部分源码地址：[bubble_front](https://github.com/starine/bubble_front)。
